@@ -1,0 +1,54 @@
+h1
+{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 2rem;
+    font-style: italic;
+    margin-top: 20px;
+}
+#sumbitBtn
+{
+    margin-top: 20px;
+}
+
+#myCheckBox
+{
+    margin-left: 30px;
+}
+
+#submitForm
+{
+    margin-top: 40px;
+}
+#taskInTable
+{
+    max-width: 300px;
+}
+#delete
+{
+    width: 60px;
+}
+#edit
+{
+    width: 60px;
+}
+#save
+{
+    width: 60px;
+}
+.edit
+{
+    border: solid 2px orange;
+}
+.not-edit
+{
+    border: none;
+}
+.crossed
+{
+    text-decoration: line-through;
+}
+.container
+{
+    background-color: rgb(204, 191, 207);
+}
